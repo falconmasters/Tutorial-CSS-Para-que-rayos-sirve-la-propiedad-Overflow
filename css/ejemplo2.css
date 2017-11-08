@@ -1,0 +1,21 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: #F4F4F4;
+}
+
+.caja {
+	width: 500px;
+	height: 500px;
+	background: #fff;
+	margin:20px auto;
+	overflow: hidden;
+}
+
+.caja img {
+	vertical-align: top;
+}

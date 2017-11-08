@@ -1,0 +1,35 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: #F4F4F4;
+}
+
+.contenedor {
+	border: 2px solid #52489c;
+	width: 1000px;
+	margin: 20px auto;
+	padding: 20px;
+	background: #fff;
+	overflow: hidden;
+}
+
+.caja_1 {
+	width: 300px;
+	background: #fff;
+	float: left;
+}
+
+.caja_2 {
+	width: 300px;
+	background: #fff;
+	float: right;
+}
+
+.caja_1 img,
+.caja_2 img {
+	width: 100%;
+}
